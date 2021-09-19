@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Naimulislam2454/Todo_list/static/css/main.974e150a.chunk.css",
+    "main.js": "/Naimulislam2454/Todo_list/static/js/main.d13e78fd.chunk.js",
+    "main.js.map": "/Naimulislam2454/Todo_list/static/js/main.d13e78fd.chunk.js.map",
+    "runtime-main.js": "/Naimulislam2454/Todo_list/static/js/runtime-main.ca98e538.js",
+    "runtime-main.js.map": "/Naimulislam2454/Todo_list/static/js/runtime-main.ca98e538.js.map",
+    "static/js/2.1e3ade58.chunk.js": "/Naimulislam2454/Todo_list/static/js/2.1e3ade58.chunk.js",
+    "static/js/2.1e3ade58.chunk.js.map": "/Naimulislam2454/Todo_list/static/js/2.1e3ade58.chunk.js.map",
+    "static/js/3.6f568c2c.chunk.js": "/Naimulislam2454/Todo_list/static/js/3.6f568c2c.chunk.js",
+    "static/js/3.6f568c2c.chunk.js.map": "/Naimulislam2454/Todo_list/static/js/3.6f568c2c.chunk.js.map",
+    "index.html": "/Naimulislam2454/Todo_list/index.html",
+    "static/css/main.974e150a.chunk.css.map": "/Naimulislam2454/Todo_list/static/css/main.974e150a.chunk.css.map",
+    "static/js/2.1e3ade58.chunk.js.LICENSE.txt": "/Naimulislam2454/Todo_list/static/js/2.1e3ade58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca98e538.js",
+    "static/js/2.1e3ade58.chunk.js",
+    "static/css/main.974e150a.chunk.css",
+    "static/js/main.d13e78fd.chunk.js"
+  ]
+}
